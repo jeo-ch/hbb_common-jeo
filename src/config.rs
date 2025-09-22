@@ -104,8 +104,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["desk.parsgo.online"];
-pub const RS_PUB_KEY: &str = "s1sGYTdOlYoq7O7HryGxVLEgkC7JBkfbICs6uJcrc4k=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.jeo-ch.ink"];
+pub const RS_PUB_KEY: &str = "jeoch!123";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
